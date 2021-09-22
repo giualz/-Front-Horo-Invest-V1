@@ -7,6 +7,6 @@ const About = () => {
             <AboutDevs />
         </>
     )
-}
+}  
 
 export default About
