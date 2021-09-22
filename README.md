@@ -12,7 +12,7 @@ https://horo.netlify.app
 
 ## Authors
 
-- Giulia Alziguir
+- Giulia Alzuguir
 - Leonardo Meirelles
 
 ## Contact me: Giulia Alzuguir 
